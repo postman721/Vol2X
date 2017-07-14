@@ -22,7 +22,7 @@ python
 
 python3 
 
-The actual package names might differ depending on the system. Furthermore, python should be installed by default in most system. In reality the only packages that you might need to install for Vol2X might be pulseaudio and python-pyqt5 or similar.
+The actual package names might differ depending on the system. Furthermore, python should be installed by default in most system. In reality the only package that you might need to install for Vol2X might be python-pyqt5 or similar.
 
 Vol2x-QT5 features:
 
