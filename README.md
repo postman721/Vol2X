@@ -1,5 +1,5 @@
 # Vol2X
-Linux volume control application written with Python and Qt5
+Linux Pulseaudio volume control application written with Python and Qt5
 
 ![vol2x](https://user-images.githubusercontent.com/29865797/28224494-f8f4094e-68d7-11e7-8084-c00b1e79d052.jpg)
 
@@ -10,7 +10,9 @@ Linux volume control application written with Python and Qt5
 #GPL Version 2, June 1991”
 
 
-Dependencies: 
+Dependencies:
+
+pulseaudio
 
 python-pyqt5 
 
