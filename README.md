@@ -22,6 +22,8 @@ python
 
 python3 
 
+Enhaching dependency: pavucontrol
+
 The actual package names might differ depending on the system. Furthermore, python should be installed by default in most system. In reality the only package that you might need to install for Vol2X might be python-pyqt5 or similar.
 
 Vol2x-QT5 features:
